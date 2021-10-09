@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shubhamguptasr, formaly known as Shubham. 
-- 👀 I’m interested in Engineering, Software Dev, Cloud computing and DevOps.
-- 🌱 I’m currently learning Python, Linux and TerraForm.
-- 🙌 I'm trying to make career change from Electrical Engineer to Software Dev/DevOps
-- 💞️ I’m looking to collaborate on ... not sure yet aha. Still learning. Probably some Cloud stuff 
+- 👀 I’m interested in Engineering, Software Dev, Cloud computing and Data Analytics.
+- 🌱 I’m currently learning MERN Full Stack and taking up Google Data Analytics Certification.
+- 🙌 I'm trying to make career change from Electrical Engineer to Software Dev/Data Analytics.
+- 💞️ I’m looking to collaborate on ... not sure yet aha. Still learning. Probably some Cloud or Data stuff 
 - 📫 How to reach me ... guptasr.shubham@gmail.com
 
 <!---
